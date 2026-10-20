@@ -279,7 +279,3 @@ The original project README links to a Google AI Studio app and the source inclu
 - Google Cloud generative AI sample repository referenced in the source: <https://github.com/GoogleCloudPlatform/generative-ai-docs-samples>
 
 Review the original source and license before redistributing adapted code. The links above are included as attribution leads, not as a claim that this repository is an official Google product.
-
-## License
-
-No project-specific license was included in the supplied archive. Unless you add a license, other people do not automatically receive permission to reuse, modify, or redistribute your code. Choose a license after confirming the rights and attribution requirements for any starter code you used.
