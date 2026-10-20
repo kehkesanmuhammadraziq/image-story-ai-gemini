@@ -1,0 +1,4 @@
+/* Small global stylesheet; utility styling is currently loaded from Tailwind CDN in index.html. */
+html { color-scheme: dark; }
+body { margin: 0; min-width: 320px; min-height: 100vh; }
+button, input { font: inherit; }

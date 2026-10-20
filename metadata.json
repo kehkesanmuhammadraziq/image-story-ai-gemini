@@ -1,0 +1,5 @@
+{
+  "name": "ImageStory AI",
+  "description": "An application that uses Gemini to generate a creative short story or description based on a user-uploaded image. It includes a one-click deploy to Cloud Run feature.",
+  "requestFramePermissions": []
+}
